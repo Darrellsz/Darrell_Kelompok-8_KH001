@@ -1,17 +1,12 @@
-# praktikum1
+Praktikum 1 - Kartu Profil Mahasiswa
 
-Darrell Putra Prayata 20250801150 Tugas membuat 
+Aplikasi Flutter sederhana untuk menampilkan kartu profil mahasiswa interaktif.
 
-## Getting Started
+Identitas Mahasiswa
+Nama: Darrell Putra Prayata
+NIM: 20250801150
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fitur Utama
+Kartu Profil Terpusat: Menampilkan avatar inisial (`DP`), nama lengkap, lencana NIM, dan deskripsi singkat dalam desain *clean light theme*.
+Kunjungi GitHub: Tombol aksi utama berbentuk kapsul untuk membuka halaman profil GitHub (`https://github.com/Darrellsz`) di browser eksternal menggunakan `url_launcher`.
+Sapa Darrell: Tombol sekunder (*outlined*) yang menampilkan notifikasi *SnackBar* melayang saat ditekan.Praktikum 1 - Kartu Profil Mahasiswa
