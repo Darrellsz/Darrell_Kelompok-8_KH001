@@ -1,6 +1,6 @@
-# p1
+# praktikum1
 
-A new Flutter project.
+Darrell Putra Prayata 20250801150 Tugas membuat 
 
 ## Getting Started
 
