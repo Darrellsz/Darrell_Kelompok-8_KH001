@@ -1,17 +1,11 @@
-# p3
+Praktikum 3 - Integrasi Firebase pada Aplikasi Flutter
 
-A new Flutter project.
+Aplikasi Flutter kartu profil mahasiswa yang telah terintegrasi dengan layanan Firebase menggunakan `firebase_core` dan FlutterFire CLI.
 
-## Getting Started
+Identitas Mahasiswa
+Nama: Darrell Putra Prayata
+NIM: 20250801150
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fitur Utama
+Inisialisasi Firebase Multi-Platform:** Menghubungkan aplikasi Flutter ke server Firebase saat *startup* melalui `Firebase.initializeApp()` dengan konfigurasi otomatis dari `firebase_options.dart`.
+Kartu Profil Mahasiswa:** Menampilkan avatar inisial (`DP`), nama lengkap, lencana NIM, dan deskripsi singkat dalam desain *clean light theme*.
